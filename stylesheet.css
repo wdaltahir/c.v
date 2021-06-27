@@ -1,0 +1,86 @@
+body{
+  background-color: lightgrey;
+  text-align: center;
+}
+th{
+  font-family: serif;
+  background-color: lightblue;
+  border-style:groove;
+}
+th:hover{
+  color: blue;
+}
+p{
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+  font-family: cursive;
+}
+h1
+{
+  font-size: 5em;
+}
+h3
+{
+  font-size: 2em;
+}
+h3:hover{
+  color:blue;
+}
+h2{
+  font-size: 2em;
+}
+hr{
+  visibility:visible;
+  border: dotted  6px ;
+  border-bottom: none;
+  width:4%;
+}
+.footer{
+  background-color: lightblue;
+}
+span{
+  background-color: lightblue;
+  border-style:hidden;
+margin-left: 10px;
+margin-right: 10px;
+font-family: serif;
+}
+span:hover{
+  color: blue;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
+}
+.contact{
+  text-align: center;
+  font-family: serif;
+  background-color: lightblue;
+  font-size: 2em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 20%
+}
+.contact:hover{
+  color: blue;
+
+}
+nav{
+  position:fixed;
+  background-color: lightblue;
+  width:30%;
+}
+h1:hover{
+  color:blue;
+
+}
+.title:hover{
+  color:blue;
+}
+.image{
+  transform:rotate(90deg);
+}
